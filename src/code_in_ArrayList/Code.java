@@ -2,7 +2,7 @@ package code_in_ArrayList;
 
 import java.util.ArrayList;
 
-public class Programing_code_01 {
+public class Code {
 
 	public static void main(String[] args) {
 		
