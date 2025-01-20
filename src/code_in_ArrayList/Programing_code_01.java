@@ -16,6 +16,7 @@ public class Programing_code_01 {
 		al.add(35);
 		al.add(98);
 		al.add(86);
+		al.add(69);
 		al.add(56);
 		
 		System.out.println(al);
